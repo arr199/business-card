@@ -27,6 +27,7 @@ body {
     border-radius: 5px;
     animation-name: bg-change;
     animation-duration: 5s;
+    max-height: 200px;
  
 }
 @keyframes bg-change {
